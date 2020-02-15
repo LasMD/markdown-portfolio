@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+# Connect With Me
+[Github](https://github.com/LasMD)
+<br>
+[Linkedin](https://https://www.linkedin.com/in/lasithadenipitiya)
